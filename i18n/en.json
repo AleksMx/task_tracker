@@ -1,0 +1,21 @@
+{
+  "time": {
+      "day": "day",
+      "days": "days",
+      "h": "h",
+      "m": "m",
+      "s": "s",
+      "min": "min",
+      "sec": "sec",
+      "today": "today"
+  },
+  "dashboard": {
+    "title": "My Dashboard",
+    "addTask": "Add task",
+    "startTask": "Start task",
+    "stopTask": "Stop task"
+  },
+  "dashboardTaskView": {
+    "emptyTitle": "You haven't marked working hours yet"
+  }
+}
